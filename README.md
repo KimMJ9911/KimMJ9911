@@ -28,7 +28,7 @@
   <div align = "center">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-### 
-## 2025 알고리즘 스터디 팀장
-## 프로젝트 <SCROLLBLOG> 백엔드
-## 프로젝트 <Obok> 백엔드
+# DO 
+### 2025 알고리즘 스터디 팀장
+### 프로젝트 SCROLLBLOG 백엔드
+### 프로젝트 Obok 백엔드
