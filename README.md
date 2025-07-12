@@ -31,4 +31,4 @@
 ### 2024 알고리즘 스터디 TTA 팀원
 ### 2025 알고리즘 스터디 ALLgo - 3팀 팀장
 ### 프로젝트 SCROLLBLOG 백엔드 담당
-### 2025 HouseWith 백엔드
+### 2025 DOIT 팀 HouseWith 백엔드
