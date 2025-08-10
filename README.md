@@ -19,11 +19,9 @@
           <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-          <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <div align = "center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
           <img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=tymeleaf&logoColor=white">
           
 
