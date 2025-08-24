@@ -23,7 +23,9 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <div align = "center">
           <img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=tymeleaf&logoColor=white">
-          
+  <div align = "center">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+          <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
 
 # DO 
 ### 2024 알고리즘 스터디 TTA 팀원
