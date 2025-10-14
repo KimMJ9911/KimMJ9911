@@ -3,12 +3,11 @@
 
 
 # Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=trifolium991119)](https://solved.ac/trifolium991119/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=palux0304)](https://solved.ac/palux0304/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
 
 # STACKS & TOOLS
   <div align = "center">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -23,12 +22,9 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <div align = "center">
           <img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=tymeleaf&logoColor=white">
-  <div align = "center">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
 
 # DO 
-### 2024 알고리즘 스터디 TTA 팀원
-### 2025 알고리즘 스터디 ALLgo - 3팀 팀장
-### 프로젝트 SCROLLBLOG 백엔드 담당
-### 2025 DOIT 팀 HouseWith 백엔드
+### 2024 알고리즘 스터디 TTA 팀원 (2023/12 ~ 2024/10)
+### 2025 알고리즘 스터디 ALLgo - 3팀 팀장 (2024/10 ~ 2025/1)
+### 프로젝트 SCROLLBLOG 백엔드 담당 (2024/3 ~ 2024/6)
+### 2025 DOIT 팀 Dotory 백엔드 (2025/3 ~)
