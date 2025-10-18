@@ -4,7 +4,7 @@
 
 # Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=palux0304)](https://solved.ac/palux0304/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=verox0304)](https://solved.ac/verox0304/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rangcl1010)](https://solved.ac/rangcl1010/)
 
 # STACKS & TOOLS
   <div align = "center">
