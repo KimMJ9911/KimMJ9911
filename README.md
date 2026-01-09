@@ -1,5 +1,4 @@
 # 
-### Solving Problems is the Core of Computer Science
 
 
 # Algorithm
